@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sadrmdan976-hub.github.io/hope-journey/sitemap.xml
