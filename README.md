@@ -10,12 +10,12 @@
 
 - صفحة التحميل: https://sadrmdan976-hub.github.io/hope-journey/
 - ويندوز (يشغّل المنصة كاملة): [HOPE-JOURNEY-Windows-1.1.zip](../../releases/latest/download/HOPE-JOURNEY-Windows-1.1.zip)
-- أندرويد (تطبيق الهاتف): [HOPE-JOURNEY-Android-1.1.apk](../../releases/latest/download/HOPE-JOURNEY-Android-1.1.apk)
+- أندرويد (تطبيق الهاتف): [HOPE-JOURNEY-Android-1.2.apk](../../releases/latest/download/HOPE-JOURNEY-Android-1.2.apk)
 
-## الإصدار 1.1 — 26 نوفمبر 2026
+## الإصدارات 1.1 (ويندوز) و1.2 (أندرويد) — 26 نوفمبر 2026
 
 - تطبيق ويندوز مستقل (64-bit) يشغّل المنصة بضغطة واحدة.
-- تطبيق أندرويد (7.0+) يعمل على أي شبكة: العنوان العام للمنصة مكتوب مسبقًا، ويمكن تغييره من شاشة الإعداد.
+- تطبيق أندرويد 1.2 (7.0+) يعمل على أي شبكة عبر رابط ثابت يتحدّث تلقائيًا: https://sadrmdan976-hub.github.io/hj/
 - صفحة تثبيت داخل الموقع العام نفسه مع بصمات SHA-256 وخطوات التثبيت.
 - بياناتك تبقى على جهازك؛ الحزم لا تحتوي أي قاعدة بيانات أو إعدادات.
 
@@ -25,7 +25,7 @@
 
 ```
 sha256sum HOPE-JOURNEY-Windows-1.1.zip
-sha256sum HOPE-JOURNEY-Android-1.1.apk
+sha256sum HOPE-JOURNEY-Android-1.2.apk
 ```
 
 ## المتطلبات
